@@ -1,0 +1,2 @@
+# newGitTest
+A test repository
